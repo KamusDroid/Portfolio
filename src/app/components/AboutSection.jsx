@@ -57,12 +57,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+          Soy un apasionado Data Scientist en proceso de formación en Ingeniería en Computación y Licenciatura en Ingeniería de Software, lo que me ha proporcionado una base sólida para adaptarme de manera efectiva a la dinámica de trabajo en equipos de desarrollo y cumplir con sus diversos requerimientos. Mi experiencia incluye el desarrollo y manejo de bases de datos, la creación de logins de usuario, aspectos de seguridad web, así como la gestión integral de peticiones y la mejora de la experiencia del usuario.
+Mis conocimientos abarcan desde metodologías ágiles, flujos de trabajo y estructura de datos hasta evaluación de modelos, Machine Learning, Deep Learning y Data Engineering, con experiencia en el manejo eficiente de datos en la nube. He trabajado en la arquitectura de datos, la generación de informes y la creación de modelos de Machine Learning, llevando a cabo ETL con Python, Dashboards y diferentes forma de presentaciones en Power BI y Streamlit.
+Con habilidades destacadas en comunicación interpersonal, búsqueda de soluciones y capacidad para liderar equipos, así como organizar y priorizar tareas incluso en situaciones de alta presión, demuestro un manejo efectivo del estrés. Estoy entusiasmado por aportar mis habilidades técnicas y soft skills a un equipo innovador, contribuyendo al éxito conjunto mientras busco avanzar y especializarme aún más en el emocionante mundo del Machine Learning.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
